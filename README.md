@@ -93,43 +93,43 @@ Safety was a key design priority:
 
 ##Pricing and Links.
 
-Arduino Nano ATmega328P x2 -52 -- https://a.co/d/9jPR3x4
+Arduino Nano ATmega328P x2 -$52 -- https://a.co/d/9jPR3x4
 
-MPU6050 GY-521 Module -15 -- https://a.co/d/38O0Ayi
+MPU6050 GY-521 Module -$15 -- https://a.co/d/38O0Ayi
 
-HC-05 Bluetooth Module x2 -11  -- https://a.co/d/afpc3bv
+HC-05 Bluetooth Module x2 -$11  -- https://a.co/d/afpc3bv
 
-Coreless DC Motor 3.7V (7x20mm) x4 -10 -- https://a.co/d/4z7b9PU
+Coreless DC Motor 3.7V (7x20mm) x4 -$10 -- https://a.co/d/4z7b9PU
 
--Mini Drone Propellers (CW+CCW) -12
+-Mini Drone Propellers (CW+CCW) -$12
 
-IRLZ44N MOSFET x4 -10 --https://a.co/d/4QUMSAk
+IRLZ44N MOSFET x4 -$10 --https://a.co/d/4QUMSAk
 
-18650 Li-ion Battery -29 --https://a.co/d/diiVJWk
+18650 Li-ion Battery -$29 --https://a.co/d/diiVJWk
 
-18650 Battery Holder -8 -- https://a.co/d/eTcuvmc
+18650 Battery Holder -$8 -- https://a.co/d/eTcuvmc
 
-3.7V LiPo Battery (500–800mAh) -24
+3.7V LiPo Battery (500–800mAh) -$24
 
-LM2596 Buck Converter -14 --https://a.co/d/f3ExQ8t
+LM2596 Buck Converter -$14 --https://a.co/d/f3ExQ8t
 
-Mini Push Button Switch -7 -- https://a.co/d/2a9AQmO 
+Mini Push Button Switch -$7 -- https://a.co/d/2a9AQmO 
 
-Slide Switch -6 --https://a.co/d/gRGa3ng
+Slide Switch -$6 --https://a.co/d/gRGa3ng
 
-Mini Quadcopter Frame -36 --https://a.co/d/2LpCOSj
+Mini Quadcopter Frame -$36 --https://a.co/d/2LpCOSj
 
-Mini Drone Propeler Guards -12 --https://a.co/d/aTbaKRb
+Mini Drone Propeler Guards -$12 --https://a.co/d/aTbaKRb
 
-Resistors (220Ω, 10kΩ) -11 --https://a.co/d/7UkwLSL 
+Resistors (220Ω, 10kΩ) -$11 --https://a.co/d/7UkwLSL 
 
-Diodes (1N4007) -6 --https://a.co/d/8XzJWj8
+Diodes (1N4007) -$6 --https://a.co/d/8XzJWj8
 
-Capacitors (100µF, 0.1µF) -7 --https://a.co/d/3WRlUrm 
+Capacitors (100µF, 0.1µF) -$7 --https://a.co/d/3WRlUrm 
 
-Dupont Jumper Wires -7
+Dupont Jumper Wires -$7
 
-Perf Board -8 --https://a.co/d/cpfHsz7
+Perf Board -$8 --https://a.co/d/cpfHsz7
 
-Heat Shrink Tubes -10 --https://a.co/d/7QUb9as
+Heat Shrink Tubes -$10 --https://a.co/d/7QUb9as
 
