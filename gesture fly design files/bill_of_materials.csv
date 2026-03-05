@@ -1,0 +1,11 @@
+Item,Model,Quantity,Notes
+Microcontroller,Arduino Nano V3,2,One for glove and one for drone
+Motion Sensor,MPU6050,1,Detects hand orientation
+Wireless Module,nRF24L01+,2,Communication
+Battery,3.7V LiPo 1000mAh,2,Power supply
+Drone Motors,2204 Brushless Motor,4,Quadcopter propulsion
+ESC,30A ESC,4,Motor control
+Propellers,5 inch propellers,4,Thrust
+Frame Material,3mm Acrylic/PLA,1,Drone body
+Voltage Regulator,AMS1117 3.3V,1,For nRF24L01
+Jumper Wires,Dupont wires,20,Connections
